@@ -9,3 +9,8 @@ nav{
 .banner{
     background-color: aliceblue;
 }
+
+main{
+    background-color: red;
+    padding: 10px 30px;
+}
